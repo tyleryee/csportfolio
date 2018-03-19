@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(111,226,165);
+    text-align:center;
+    font-family: "Times New Roman", Times, serif;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    padding: 20px;
+}
+h2 {
+    font-size: 30px;
+}
+#Fav {
+    background-color: black;
+    color: white
+}
